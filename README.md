@@ -23,13 +23,18 @@ We cut out the fat of the code, created a general, well-working set of instructi
 Scores
 =================
 winstonc - 147,356
+
 huyle333 - 139,349
+
 aaronjarecki - 138,923
 
 Top Categories
 =================
 kills - 94 - aaronjarecki
+
 damage - 434 - aaronjarecki
+
 round - 76 - winstonc
+
 waveClears - 8 - winstonc
 
