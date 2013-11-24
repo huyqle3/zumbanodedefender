@@ -1,4 +1,4 @@
-Write up for Zumba Fitness's Node Defender at the Ultimate Developer Event 2013
+Write-up for Zumba Fitness's Node Defender at the Ultimate Developer Event 2013
 =================
 Winston Chen and Huy Le attend the Ultimate Developer Event 2013 and win 1st and 2nd respectively for Zumba Fitness's Node Defender game
 
