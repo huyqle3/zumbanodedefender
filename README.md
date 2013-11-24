@@ -8,7 +8,7 @@ Defend against waves of murderous server side code that wants nothing more than 
 
 Backstory
 =================
-Winston and I arrived at the Ultimate Developer Event 2013 on November 21, 2013.Talking with the two people from Zumba Fitness, we learned about their Node Defender game, and we wanted to try to beat the top score and win first and second. We were to code Javascript instructions for Node defender and try to get the top score.
+Winston and I arrived at the Ultimate Developer Event 2013 on November 21, 2013.Talking with the two people from Zumba Fitness, we learned about their Node Defender game, and we wanted to try to beat the top score and win first and second. We were to code Javascript instructions for Node Defender and try to get the top score.
 
 Strategy
 =================
