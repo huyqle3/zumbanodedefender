@@ -1,10 +1,14 @@
 Write-up for Zumba Fitness's Node Defender at the Ultimate Developer Event 2013
 =================
-Winston Chen and Huy Le attend the Ultimate Developer Event 2013 and win 1st and 2nd respectively for Zumba Fitness's Node Defender game
+Winston Chen and Huy Le attend the Ultimate Developer Event 2013 and win 1st and 2nd respectively for Zumba Fitness's Node Defender game.
 
 https://github.com/zumba/node-defender-game
 
 Defend against waves of murderous server side code that wants nothing more than to kill and disconnect your node client. Node Defender was a websocket game by Zumba Fitness. Node Defender was created with two servers (Heroku dynos): a client server and a game server, MongoDB for the sessions and game results, and Redis. Browser client was created with Bootstrap 3.0, jade, Sass & Compass, RequireJS, Ace, KinecticJS, and howler.js.
+
+Play Zumba Fitness's Node Defender.
+
+https://node-defender.herokuapp.com/game
 
 Backstory
 =================
@@ -18,7 +22,7 @@ At first, I tested my conditional code with the Node Defender to see how well I 
 
 Since there was no penalty for repeated submissions, we decided that we should cut out any very specific code. We should leave a general, simple set of instructions that followed a rational and logical process that would effectively increase our chances for a high score. Endless submissions would work well because the random pattern would eventually show us whether certain code was good or not. We tried to have a general set of code that had a average mean of around 90,000 - 100,000. 
 
-As a result, we focused on two main criteria for the best general solution to Node Defender. After analyzing the code on github for the Node Defender and the instructions on how the game was scored, I put priority in killing waves as quick as possible to get the 10,000 point boost in the early rounds, and later on, defending myself as long as possible to get most rounds survived and some extra points. In the early rounds, killing waves was much easier, so my general code revolved around using collateral to destroy waves.
+As a result, we focused on two main criteria for the best general solution to Node Defender. After analyzing the code on github for Node Defender and the instructions on how the game was scored, I put priority in killing waves as quick as possible to get the 10,000 point boost in the early rounds, and later on, defending myself as long as possible to get most rounds survived and some extra points. In the early rounds, killing waves was much easier, so my general code revolved around using collateral to destroy waves.
 
 We cut out the fat of the code, created a general, well-working set of instructions for Node Defender, and simply ran it over and over again until we got high scores.
 
